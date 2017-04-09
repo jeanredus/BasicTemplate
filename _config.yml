@@ -1,5 +1,5 @@
 ---
-title: Indivisible City
+title: Indivisible Sebastopol
 timezone: UTC
 collections:
   posts:
@@ -57,15 +57,17 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: 'Hundreds of local citizens working to defend our democracy from Trump''s
+  agenda with values of inclusion, tolerance, fairness and transparency.
+
+'
+email: indivisible-wsc@gmail.com
 baseurl: 
 url: 
-twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+twitter_username: "@IndivisibleSeb"
+facebook_username: https://www.facebook.com/indivisiblewest/
+background-image: "/uploads/16486810_1374718962580538_3407011819369598940_o.jpg"
+member-count: 880
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
