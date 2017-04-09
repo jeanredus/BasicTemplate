@@ -1,5 +1,5 @@
 ---
-title: Congressman Jared Huffman
+title: Congressman Jared Huffman - 2nd District
 date: 2017-04-09 16:08:00 -07:00
 phone-numbers:
   Petaluma Office: "(707) 981-8967"
