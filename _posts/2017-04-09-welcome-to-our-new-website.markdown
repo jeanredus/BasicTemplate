@@ -1,6 +1,7 @@
 ---
 title: Welcome to our new website
 date: 2017-04-09 17:26:00 -07:00
+is featured: true
 ---
 
 Hi Indies, and welcome to our new website.
