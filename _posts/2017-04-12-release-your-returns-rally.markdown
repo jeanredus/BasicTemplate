@@ -5,7 +5,7 @@ categories:
 - event
 main-image: "/uploads/17757417_242596222813932_3869776404660677332_n.png"
 event-start-date: 2017-04-15 14:30:00 -07:00
-event-end-date: 2017-04-15 17:00:00 -07:00
+event-end-date: 2017-04-15 17:30:00 -07:00
 Location: 'Meeting at Doyle Park, SR, to walk together to the central post office
   in SR for march starting at 3pm
 
